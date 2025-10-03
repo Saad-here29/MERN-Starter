@@ -1,3 +1,5 @@
+Welcome to MERN Starter - Main Branch Change
+
 # MERN-Starter
 
 ## Description
